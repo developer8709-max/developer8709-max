@@ -108,8 +108,6 @@ A backend-driven SMM panel handling order processing, API integrations, and serv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=developer8709-max&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=cfcfcf&icon_color=cfcfcf&text_color=9e9e9e" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer8709-max&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=cfcfcf&text_color=9e9e9e" height="165" alt="languages"/>
 
 <br>
 
