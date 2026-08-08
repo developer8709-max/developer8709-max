@@ -38,14 +38,14 @@ I care about writing backend systems that are clean, fast, and don't fall over u
 </tr>
 <tr>
 <td><sub><b>ʀᴇᴀᴄʜ ᴏᴜᴛ</b></sub></td>
-<td><sub>developer9334@gmail.com</sub></td>
+<td><sub>developer8709@gmail.com</sub></td>
 </tr>
 </table>
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-1a1a1a?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_murari.exe)
-[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:developer9334@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:developer8709@gmail.com)
 
 </div>
 
