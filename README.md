@@ -44,7 +44,7 @@ I care about writing backend systems that are clean, fast, and don't fall over u
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-1a1a1a?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/__murariii)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-1a1a1a?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_murari.exe)
 [![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:developer9334@gmail.com)
 
 </div>
